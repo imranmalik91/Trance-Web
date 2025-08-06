@@ -60,7 +60,7 @@ body {
 
 .nav-link {
     text-decoration: none;
-    color: #555;
+    color: #333;
     font-weight: 500;
     transition: color 0.3s ease;
 }
@@ -148,7 +148,7 @@ body {
 
 .hero-description {
     font-size: 1.1rem;
-    color: #666;
+    color: #333;
     margin-bottom: 2rem;
     line-height: 1.7;
 }
@@ -165,7 +165,7 @@ body {
 
 .stat-label {
     font-size: 0.9rem;
-    color: #666;
+    color: #333;
     margin-bottom: 0.5rem;
 }
 
