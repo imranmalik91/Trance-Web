@@ -59,7 +59,7 @@
 .section-text {
     font-size: 1.1rem;
     line-height: 1.8;
-    color: #666;
+    color: #333;
     margin-bottom: 1.5rem;
 }
 
@@ -97,7 +97,7 @@
 }
 
 .feature-content p {
-    color: #666;
+    color: #333;
     line-height: 1.6;
 }
 
