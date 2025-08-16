@@ -319,7 +319,7 @@ body {
 }
 
 /* Placeholder Styles for Images */
-.logo-img, .phone-img, .store-link img {
+.logo-img, .store-link img {
     background: #e0e0e0;
     border-radius: 8px;
 }
@@ -328,12 +328,12 @@ body {
     background: linear-gradient(45deg, #4a90e2, #357abd);
 }
 
-.phone-img {
-    background: #f0f0f0;
-    border: 8px solid #333;
-    border-radius: 25px;
-    aspect-ratio: 9/19;
-}
+/*.phone-img {*/
+/*    background: #f0f0f0;*/
+/*    border: 8px solid #333;*/
+/*    border-radius: 25px;*/
+/*    aspect-ratio: 9/19;*/
+/*}*/
 
 .store-link img {
     background: #000;
