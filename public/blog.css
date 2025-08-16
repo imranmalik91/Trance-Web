@@ -71,13 +71,12 @@
 .placeholder-image {
     width: 100%;
     height: 100%;
-    background: linear-gradient(135deg, #4a90e2 0%, #357abd 100%);
+    background: linear-gradient(135deg, #F4F4ED 0%, #EAF2E1 100%);
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
 }
-
 .placeholder-image::before {
     content: "📖";
     font-size: 3rem;
@@ -197,7 +196,7 @@
 .nav-link-post {
     display: flex;
     align-items: center;
-    color: #4a90e2;
+    color: #FFFFFF;
     text-decoration: none;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -205,7 +204,7 @@
 }
 
 .nav-link-post:hover {
-    color: #357abd;
+    color: #FFFFFF;
     transform: translateX(5px);
 }
 
