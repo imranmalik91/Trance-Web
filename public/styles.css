@@ -176,12 +176,13 @@ body {
 }
 
 .app-store-btn .store-link img {
-    height: 60px;
+    height: 50px;
+    width: auto;
     transition: transform 0.3s ease;
 }
 
 .app-store-btn .store-link:hover img {
-    transform: scale(1.05);
+    transform: scale(1.00);
 }
 
 /* Phone Mockup */
